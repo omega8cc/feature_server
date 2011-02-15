@@ -14,6 +14,7 @@ projects[ctools] = 1.8
 projects[features] = 1.0
 projects[filefield] = 3.9
 projects[install_profile_api] = 2.1
+projects[strongarm] = 2.0
 projects[views] = 2.12
 
 projects[fserver][location] = "http://code.developmentseed.org/fserver"

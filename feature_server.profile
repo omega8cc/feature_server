@@ -22,9 +22,9 @@ function feature_server_profile_details() {
 function feature_server_profile_modules() {
   return array(
     /* optional core */
-    'menu', 'comment', 'color', 'dblog', 'help', 'taxonomy',
+    'color', 'comment', 'dblog', 'help', 'menu', 'taxonomy',
     /* other contrib */ 
-    'install_profile_api', 'content', 'number', 'filefield', 'optionwidgets', 'text', 'nodereference', 'views', 'ctools', 'features', 'context', 'fserver',
+    'content', 'context', 'ctools', 'features', 'filefield', 'fserver', 'install_profile_api', 'nodereference', 'number', 'optionwidgets', 'strongarm', 'text', 'views',
   );
 }
 
