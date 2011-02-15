@@ -1,4 +1,5 @@
-Feature Server install profile.
+Feature Server D6 install profile
 
-Created by mig5 (http://git.mig5.net)
-Modified by omega8cc (http://omega8.cc)
+Developed by Miguel Jacq - http://mig5.net
+Contributions from Dave Hall - http://davehall.com.au
+Modified by Albert Szelagowski - http://omega8.cc
