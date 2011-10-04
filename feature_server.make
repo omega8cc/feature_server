@@ -23,6 +23,7 @@ projects[fserver][directory_name] = "fserver"
 projects[fserver][destination] = "modules"
 
 projects[tao] = 3.2
+
 projects[singular][download][type] = "git"
-projects[singular][download][url] = "git://github.com/omega8cc/singular.git"
-projects[singular][directory_name] = "singular"
+projects[singular][download][url] = "https://github.com/omega8cc/singular.git"
+projects[singular][type] = "theme"
