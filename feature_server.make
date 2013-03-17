@@ -9,7 +9,7 @@ core = 6.x
 
 projects[cck] = 2.9
 projects[context] = 3.0
-projects[ctools] = 1.8
+projects[ctools] = 1.10
 projects[features] = 1.2
 projects[filefield] = 3.10
 projects[install_profile_api] = 2.2
