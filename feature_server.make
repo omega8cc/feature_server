@@ -15,7 +15,7 @@ projects[cck][download][url] = "http://files.aegir.cc/dev/contrib/cck-6.x-2.9.ta
 projects[context][type] = "module"
 ;projects[context][version] = "3.1"
 projects[context][download][type] = "get"
-projects[context][download][url] = "http://files.aegir.cc/dev/contrib/context-7.x-3.1.tar.gz"
+projects[context][download][url] = "http://files.aegir.cc/dev/contrib/context-6.x-3.3.tar.gz"
 
 projects[ctools][type] = "module"
 ;projects[ctools][version] = "1.10"
