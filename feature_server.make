@@ -2,7 +2,7 @@
 ;
 ; Developed by Miguel Jacq - http://mig5.net
 ; Contributions from Dave Hall - http://davehall.com.au
-; Modified by Albert Szelagowski - http://omega8.cc
+; Modified by Albert Szelagowski - https://omega8.cc
 
 api = 2
 core = 6.x
@@ -18,9 +18,9 @@ projects[context][download][type] = "get"
 projects[context][download][url] = "http://files.aegir.cc/dev/contrib/context-6.x-3.3.tar.gz"
 
 projects[ctools][type] = "module"
-;projects[ctools][version] = "1.10"
+;projects[ctools][version] = "1.13"
 projects[ctools][download][type] = "get"
-projects[ctools][download][url] = "http://files.aegir.cc/dev/contrib/ctools-6.x-1.11.tar.gz"
+projects[ctools][download][url] = "http://files.aegir.cc/dev/contrib/ctools-6.x-1.13.tar.gz"
 
 projects[features][type] = "module"
 ;projects[features][version] = "1.2"
@@ -54,7 +54,7 @@ projects[nodereference_url][download][url] = "http://files.aegir.cc/dev/contrib/
 
 projects[fserver][type] = "module"
 projects[fserver][download][type] = "git"
-projects[fserver][download][url] = "git://github.com/omega8cc/FeatureServer.git"
+projects[fserver][download][url] = "https://github.com/omega8cc/FeatureServer.git"
 projects[fserver][directory_name] = "fserver"
 projects[fserver][destination] = "modules"
 
@@ -65,4 +65,4 @@ projects[tao][download][url] = "http://files.aegir.cc/dev/contrib/tao-6.x-3.3.ta
 
 projects[singular][type] = "theme"
 projects[singular][download][type] = "git"
-projects[singular][download][url] = "git://github.com/omega8cc/singular.git"
+projects[singular][download][url] = "https://github.com/omega8cc/singular.git"
